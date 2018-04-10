@@ -1,0 +1,31 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>JS Classes - ES2015 Way | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            class User
+            {
+                constructor(name, email)
+                {
+                    this.name = name;
+                    this.email = email;
+                }
+
+                changeEmail(email)
+                {
+                    this.email = email;
+                }
+            }
+
+            let adi = new User('Aditya Hajare', 'support@adiinviter.com');
+            console.log('Original', adi);
+            adi.changeEmail('sales@adiinviter.com');
+            console.log('Changed', adi);
+        </script>
+    </body>
+
+</html>

@@ -1,0 +1,36 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Getters And Setters | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            class User
+            {
+                get name()
+                {
+                    return 'Aditya Hajare';
+                }
+
+                set email(email)
+                {
+                    this._email = email; // Underscore is important.
+                }
+
+                get email()
+                {
+                    return this._email;
+                }
+            }
+
+            let adi = new User();
+            console.log(adi.name);
+            adi.email = 'sales@adiinviter.com';
+            console.log(adi);
+            console.log('Email without underscore: ', adi.email);
+        </script>
+    </body>
+
+</html>

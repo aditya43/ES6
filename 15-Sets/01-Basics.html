@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>es6 Sets | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            let items = new Set(['one', 'two', 'three', 'one', 'two', 'three']); //Duplicate items will be merged automatically.
+
+            function log(msg)
+            {
+                console.log('\n\n\n\n\n' + '='.repeat(5) + msg + '='.repeat(5));
+            }
+
+            log('Original Set');
+            console.log(items);
+
+            ///////////////////////////////
+            // To get the size of a set. //
+            ///////////////////////////////
+            log('To get the size of a set');
+            console.log(items.size);
+
+            //////////////////////////////////
+            // To add/push new item to set. //
+            //////////////////////////////////
+            log('To add/push new item to set');
+            console.log(items.add('four'));
+
+            /////////////////////////////////////
+            // To delete an item from the set. //
+            /////////////////////////////////////
+            log('To delete an item from the set');
+            console.log(items.delete('four'));
+
+            //////////////////////////////////////////////////
+            // To check if a set has a specific item in it. //
+            //////////////////////////////////////////////////
+            log('To check if a set has a specific item in it');
+            console.log(items.has('two'));
+
+            /////////////////////////////////////////////////////////////////
+            // Set is an iterable object so we can iterate over each item. //
+            /////////////////////////////////////////////////////////////////
+            log('Set is an iterable object so we can iterate over each item');
+            items.forEach(item => console.log(item));
+
+            /////////////////////////////////////////////////
+            // To clear a set / delete all items from set. //
+            /////////////////////////////////////////////////
+            log('To clear a set / delete all items from set');
+            console.log(items.clear());
+        </script>
+    </body>
+
+</html>

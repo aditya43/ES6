@@ -1,0 +1,11 @@
+* Module Bundling With Rollup
+
+    1. Install rollup globally :
+        npm install rollup --global
+    2. Install Buble plugin for rollup to transpile es6 code into es5 :
+        yarn add --dev rollup-plugin-buble
+    3. Create rollup.config.js.
+    4. Execute :
+            rollup -c
+        OR
+            yarn run prod

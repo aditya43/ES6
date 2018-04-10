@@ -1,0 +1,35 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Static Methods | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            class User
+            {
+                constructor(name, email)
+                {
+                    this.name = name;
+                    this.email = email;
+                }
+
+                static register(name, email)
+                {
+                    return new User(name, email);
+                }
+
+                static getDate()
+                {
+                    return new Date().toUTCString();
+                }
+            }
+
+            let adi = User.register('Aditya Hajare', 'support@adiinviter.com');
+            console.log(adi);
+            console.log(User.getDate());
+        </script>
+    </body>
+
+</html>

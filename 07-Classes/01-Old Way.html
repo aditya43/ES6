@@ -1,0 +1,28 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>JS Classes - Old Way | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            function User(name, email)
+            {
+                this.name = name;
+                this.email = email;
+            };
+
+            User.prototype.changeEmail = function (email)
+            {
+                this.email = email;
+            };
+
+            let adi = new User('Aditya Hajare', 'support@adiinviter.com');
+            console.log(adi);
+            adi.changeEmail('sales@adiinviter.com');
+            console.log(adi);
+        </script>
+    </body>
+
+</html>

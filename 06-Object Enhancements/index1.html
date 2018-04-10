@@ -1,0 +1,32 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>ES2015 Object Enhancements | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            function getPerson()
+            {
+                let name = 'Aditya Hajare';
+                let age = 30;
+
+                return {
+                    name,
+                    age,
+                    greet()
+                    {
+                        console.log(`Hello ${this.name}`);
+                    }
+                };
+            }
+
+            console.log('Name: ', getPerson().name);
+            console.log('Age: ', getPerson().age);
+            console.log('Greet: ');
+            getPerson().greet()
+        </script>
+    </body>
+
+</html>

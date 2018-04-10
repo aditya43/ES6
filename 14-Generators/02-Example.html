@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>ES6 Generators Example | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            function* range(start, end)
+            {
+                while (start <= end)
+                {
+                    yield start;
+                    start++;
+                }
+            }
+
+            let iterator = range(1, 3);
+
+            console.log(iterator.next());
+            console.log(iterator.next());
+            console.log(iterator.next());
+            console.log(iterator.next()); // No value will be yielded and done will be set to true.
+
+            ///////////////////////////////////////
+            // Another way to execute generator. //
+            ///////////////////////////////////////
+            let genrtr = range(1, 3);
+            for (i of genrtr)
+            {
+                console.log(i); // This will directly fetch the yielded values.
+            }
+
+            /////////////////////////////////////////////////
+            // To execute generator using spread operator. //
+            /////////////////////////////////////////////////
+            console.log([...range(1, 3)]); // To build an array of each yielded value.
+            ////////
+            // OR //
+            ////////
+            console.log(...range(1, 3));
+        </script>
+    </body>
+
+</html>

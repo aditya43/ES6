@@ -1,0 +1,33 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Rest And Spread | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            ////////////////////////////////////////////////////////////
+            // Rest operator : Means accept n number of args in array //
+            ////////////////////////////////////////////////////////////
+            function sumRest(...numbers)
+            {
+                return numbers.reduce((prev, cur) => prev + cur);
+            }
+
+            ///////////////////////////////////////////////////////////
+            // Spread Operator : Pass array elems as indivual values //
+            ///////////////////////////////////////////////////////////
+            function sumSpread(x, y, z) // We can replace this function with above function to sum n number of numbers.
+            {
+                return x + y;
+            }
+
+            console.log('Sum Rest : ', sumRest(1, 2, 3));
+
+            let nums = [1, 2, 3];
+            console.log('Sum Spread : ', sumSpread(...nums)); // Spread operator.
+        </script>
+    </body>
+
+</html>

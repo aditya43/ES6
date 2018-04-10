@@ -1,0 +1,63 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Big Arrow Syntax | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            class Collection
+            {
+                constructor(tasks = [])
+                {
+                    this.tasks = tasks;
+                }
+
+                ////////////////////////
+                // Old way - function //
+                ////////////////////////
+                allTasksOld()
+                {
+                    this.tasks.forEach(function (task)
+                    {
+                        console.log('this context - window object: ', this);
+                        task.test();
+                    })
+                }
+
+                /////////////////////////
+                // New way - Big arrow //
+                /////////////////////////
+                allTasksNew()
+                {
+                    this.tasks.forEach((task) =>
+                    {
+                        console.log('this context: ', this);
+                        task.test();
+                    })
+                }
+            }
+
+            class Task
+            {
+                test()
+                {
+                    console.log('test function called.');
+                }
+            }
+
+            new Collection([new Task, new Task, new Task]).allTasksOld();
+            console.log('/*--------New Way--------*/');
+            new Collection([new Task, new Task, new Task]).allTasksNew();
+
+            /**
+             * Note :
+             *
+             * allTasksOld() function uses traditional inline function, 'this' refers to window object here.
+             * allTasksNew() function uses es2015 big arrow syntax, 'this' refers to current context here.
+             */
+        </script>
+    </body>
+
+</html>

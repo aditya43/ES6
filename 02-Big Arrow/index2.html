@@ -1,0 +1,31 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Big Arrow | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            let names = ['Aditya', 'James', 'Jeffrey'];
+
+            /////////////////////////////////////////////////////////////////////////////
+            // Since we are passing an inline function, we are using 'return' keyword. //
+            /////////////////////////////////////////////////////////////////////////////
+            namesOld = names.map(function (name)
+            {
+                return name + ' is old way';
+            })
+
+            ////////////////////////////////////////////////////////////////////////
+            // Here, the 'return' keyword is implicit. We don't have to write it. //
+            ////////////////////////////////////////////////////////////////////////
+            namesNew = names.map(name => name + ' is new way');
+
+            console.log(namesOld);
+            console.log('/*------------New Way------------*/');
+            console.log(namesNew);
+        </script>
+    </body>
+
+</html>

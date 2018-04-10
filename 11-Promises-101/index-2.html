@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Promises 101 | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            let timer = function (length)
+            {
+                return new Promise(function (resolve, reject)
+                {
+                    console.log('Init promise');
+                    setTimeout(function ()
+                    {
+                        console.log('Timeout Done');
+                        resolve();
+                    }, length);
+                });
+            };
+
+            timer(2000).then(() => console.log('All done, called then.'));
+        </script>
+    </body>
+
+</html>

@@ -1,0 +1,25 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Object Destructuring Example #2 | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            function fakeAjax({results, count})
+            {
+                console.log(results, count);
+            };
+
+            fakeAjax(
+            {
+                name: 'Aditya Hajare',
+                Age: 32,
+                results: ['Foo', 'Bar', 'Baz'],
+                count: 50
+            });
+        </script>
+    </body>
+
+</html>

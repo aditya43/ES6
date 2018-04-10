@@ -1,0 +1,1176 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"spli",
+				"split\t( separator: string, limit: int ): string String"
+			],
+			[
+				"Date",
+				"DatePicker\t(): DatePicker NativeScript - DatePicker"
+			],
+			[
+				"date",
+				"Date_now\t(): Date Date"
+			],
+			[
+				"cons",
+				"constructor\t(02-ES2015 Way.html)"
+			],
+			[
+				"func",
+				"function_with_name"
+			],
+			[
+				"function",
+				"function_with_name"
+			],
+			[
+				"allTa",
+				"allTasksNew"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"clr",
+				"color"
+			],
+			[
+				"src",
+				"source\tTag"
+			],
+			[
+				"class",
+				"description-lastStyleSheetSet\tDocument"
+			],
+			[
+				"tw",
+				"tweets"
+			],
+			[
+				"twe",
+				"tweet"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"rever",
+				"reverse\t(): Uint8ClampedArray NativeScript - Uint8ClampedArray"
+			],
+			[
+				"rev",
+				"reverse\t(): Uint8ClampedArray NativeScript - Uint8ClampedArray"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"sele",
+				"SELECT\t(Keyword)"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"expir",
+				"expiredCodes"
+			],
+			[
+				"ex",
+				"expired"
+			],
+			[
+				"tes",
+				"test\t(adi_test Table)"
+			],
+			[
+				"quer",
+				"query_error\t(Database.php)"
+			],
+			[
+				"undef",
+				"undefined\t: object Global"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"reco",
+				"recordAdded"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"asort",
+				"asort()"
+			],
+			[
+				"toJS",
+				"toJSON\t: functionanyany NativeScript - HttpContent"
+			],
+			[
+				"json",
+				"toJSON\t( key: any ): string Date"
+			],
+			[
+				"pregma",
+				"preg_match()"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"togg",
+				"toggleExpand"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"v",
+				"v-if\t<div v-if=\"\">"
+			],
+			[
+				"vue",
+				"vue\tvue"
+			],
+			[
+				"prop",
+				"prop\t.prop() - single"
+			],
+			[
+				"vuec",
+				"vuecprops\tVue component props"
+			],
+			[
+				"tasks",
+				"tasks-list\t(main.js)"
+			],
+			[
+				"c",
+				"component"
+			],
+			[
+				"mg",
+				"margin-bottom"
+			],
+			[
+				"contain",
+				"container\t(index.html)"
+			],
+			[
+				"descript",
+				"description-eval\tGlobal"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"btn",
+				"btn-red"
+			],
+			[
+				"new",
+				"newName"
+			],
+			[
+				"contan",
+				"container"
+			],
+			[
+				"conten",
+				"content-adi\t(app.css)"
+			],
+			[
+				"row",
+				"rows\tAttr"
+			],
+			[
+				"setrule",
+				"this->form_validation->set_rules\t\\$this->form_validation->set_rules"
+			],
+			[
+				"validation",
+				"this->form_validation->set_rules\t\\$this->form_validation->set_rules"
+			],
+			[
+				"setconten",
+				"set_content_type('application"
+			],
+			[
+				"filegetcon",
+				"file_get_contents()"
+			],
+			[
+				"setcontent",
+				"this->output->set_content_type\t\\$this->output->set_content_type"
+			],
+			[
+				"set_f",
+				"set_filter\t(index.php)"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"sysgetr",
+				"sys_get_temp_dir()"
+			],
+			[
+				"inputpo",
+				"this->input->post\t\\$this->input->post"
+			],
+			[
+				"count",
+				"count()"
+			],
+			[
+				"calcul",
+				"calculate"
+			],
+			[
+				"calc",
+				"calculate\t(CalculatorTest.php)"
+			],
+			[
+				"addi",
+				"addition"
+			],
+			[
+				"ope",
+				"operation"
+			],
+			[
+				"operat",
+				"operation"
+			],
+			[
+				"arrayfil",
+				"array_filter"
+			],
+			[
+				"arraymerge",
+				"array_merge()"
+			],
+			[
+				"setOp",
+				"setOperands\t(CalculatorTest.php)"
+			],
+			[
+				"opera",
+				"operations"
+			],
+			[
+				"assertC",
+				"assertCount"
+			],
+			[
+				"ca",
+				"calculator"
+			],
+			[
+				"arrayfi",
+				"array_filter"
+			],
+			[
+				"arrayred",
+				"array_reduce()"
+			],
+			[
+				"asserteq",
+				"assertEquals\t(AdditionTest.php)"
+			],
+			[
+				"Exce",
+				"Exception"
+			],
+			[
+				"jsonen",
+				"json_encode()"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"col",
+				"collection"
+			],
+			[
+				"arraymer",
+				"array_merge()"
+			],
+			[
+				"colle",
+				"collection1"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"Iterator",
+				"IteratorAggregate"
+			],
+			[
+				"__c",
+				"__construct()"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"getEma",
+				"getEmailVariables\t(UserTest.php)"
+			],
+			[
+				"ema",
+				"emailVariables"
+			],
+			[
+				"assertarra",
+				"assertArrayHasKey"
+			],
+			[
+				"ad",
+				"aditya@adiinviter.com"
+			],
+			[
+				"PHPUnit_Fra",
+				"PHPUnit_Framework_TestCase"
+			],
+			[
+				"requ",
+				"require_once"
+			],
+			[
+				"oa",
+				"oauth_users\t(Auth.php)"
+			],
+			[
+				"prope",
+				"property\t(autoload.php)"
+			],
+			[
+				"s-t-d",
+				"s-table-drop\tsql-table-drop"
+			],
+			[
+				"connection",
+				"connection_test\t(Property.php)"
+			],
+			[
+				"Prope",
+				"Property\t(Property.php)"
+			],
+			[
+				"load",
+				"load_view\tCI - Load View"
+			],
+			[
+				"status",
+				"status_group\t(index.php)"
+			],
+			[
+				"s-td",
+				"s-table-drop\tsql-table-drop"
+			],
+			[
+				"s-table",
+				"s-table-drop\tsql-table-drop"
+			],
+			[
+				"s-t",
+				"s-table\tsql-table"
+			],
+			[
+				"s-d",
+				"s-d\tsql-delete"
+			],
+			[
+				"in",
+				"INNER JOIN\t(Keyword)"
+			],
+			[
+				"test",
+				"`test`\t(Alias)"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 4 Class"
+			],
+			[
+				"sess",
+				"session_destroy()"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"contai",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"lb",
+				"label\tTag"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"controlle",
+				"controllers"
+			],
+			[
+				"datetim",
+				"DateTime()\tctor"
+			],
+			[
+				"memcache",
+				"Memcache"
+			],
+			[
+				"base64",
+				"base64_encode"
+			],
+			[
+				"refre",
+				"refresh_token"
+			],
+			[
+				"g",
+				"google"
+			],
+			[
+				"access",
+				"access_secret"
+			],
+			[
+				"strrepla",
+				"str_replace()"
+			],
+			[
+				"sessionstart",
+				"session_start()"
+			],
+			[
+				"service",
+				"service_session"
+			],
+			[
+				"token",
+				"tokens"
+			],
+			[
+				"isset",
+				"isset()"
+			],
+			[
+				"str",
+				"string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"format",
+				"ST: Format Current SQL File"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"s",
+				"ST: Select Connection"
+			],
+			[
+				"install",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insata",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Setsyntax: Vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"vue",
+				"Snippet: vue-config"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"phpuni",
+				"PHPUnit: Run"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"S",
+				"ST: Select Connection"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sq",
+				"SQLExec: Execute"
+			],
+			[
+				"unit",
+				"PHPUnit: Run"
+			],
+			[
+				"phpun",
+				"PHPUnit: Run"
+			],
+			[
+				":test",
+				"PHPUnit: Test File"
+			],
+			[
+				"test",
+				"PHPUnit: Test File"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"php\t",
+				"Set Syntax: PHP"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"package remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 423.0,
+		"history":
+		[
+			"cls",
+			"clear",
+			"view.run_command(\"vuenextformatter\")",
+			"cls",
+			"clear",
+			"cls",
+			"clear",
+			"vendor/bin/phpunit",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/L/xampp/htdocs/learn/php"
+	],
+	"file_history":
+	[
+		"/C/Users/Aditya/Downloads/Adi_Send_Mail.php",
+		"/C/Users/Aditya/Desktop/test/Adi_Send_Mail.php",
+		"/C/Users/Aditya/Downloads/Adi_Send_Mail (1).php",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/User/CodeFormatter.sublime-settings",
+		"/L/xampp/htdocs/learn/aa/test1.php",
+		"/C/Users/Aditya/Desktop/test1.php",
+		"/C/Users/Aditya/Downloads/Adi_Send_Mail (2).php",
+		"/C/Users/Aditya/Desktop/test.php",
+		"/C/Users/Aditya/Downloads/Adi_Send_Mail (4).php",
+		"/C/Users/Aditya/Downloads/Adi_Send_Mail (3).php",
+		"/C/Users/Aditya/Desktop/Adi_Send_Mail.php",
+		"/C/Users/Aditya/Downloads/Adi_Send_Mail (5).php",
+		"/L/xampp/htdocs/learn/aa/composer.json",
+		"/C/Users/Aditya/Downloads/AdiInviter_Pro_wordpress_4.x_Build_2000/Upload/find_friends/adiinviter/integration/Adi_Send_Mail.default.php",
+		"/C/Users/Aditya/.bashrc",
+		"/L/xampp/htdocs/learn/php/Laravel/Basic Notes.txt",
+		"/C/Program Files/Git/etc/vimrc",
+		"/C/Users/Aditya/Desktop/test/aditest/package.json",
+		"/C/Users/Aditya/Desktop/details",
+		"/C/Users/Aditya/.zshrc",
+		"/C/Users/Aditya/Desktop/test/package.json",
+		"/C/Users/Aditya/Desktop/test/yarn-error.log",
+		"/C/Users/Aditya/.local/bin/subl.sh",
+		"/C/Users/Aditya/.babunrc",
+		"/C/Users/Aditya/.babun/cygwin/home/Aditya/.bashrc",
+		"/C/Users/Aditya/.babun/cygwin/home/Aditya/.zshrc",
+		"/C/Users/Aditya/.babun/cygwin/home/Aditya/.oh-my-zsh/templates/zshrc.zsh-template",
+		"/C/Users/Aditya/.babun/cygwin/usr/local/etc/babun/home/.zshrc",
+		"/C/Users/Aditya/.babun/cygwin/usr/share/doc/zsh-5.0.6/StartupFiles/etc/zshrc",
+		"/C/Users/Aditya/.babun/cygwin/etc/zshrc",
+		"/C/Users/Aditya/.babun/cygwin/usr/local/etc/babun/home/oh-my-zsh/.oh-my-zsh/templates/zshrc.zsh-template",
+		"/C/Users/Aditya/.babun/cygwin/home/Aditya/fix_zsh_history.sh",
+		"/C/Users/Aditya/.babun/cygwin/home/Aditya/.zsh_history",
+		"/C/Users/Aditya/.babun/cygwin/home/Aditya/.zsh_history",
+		"/C/Users/Aditya/.babun/cygwin/home/Aditya/.zsh_history_bad",
+		"/L/xampp/htdocs/learn/php/03-Adi_OAuth/Classes/OAuth/HttpRequest.php",
+		"/L/xampp/htdocs/learn/php/03-Adi_OAuth/Classes/OAuth/Linkedin.php",
+		"/L/xampp/htdocs/learn/php/Laravel/Running.txt",
+		"/C/Users/Aditya/Desktop/gmail.php",
+		"/C/Users/Aditya/Desktop/gmail1.php",
+		"/L/xampp/htdocs/learn/ES2015/15-Sets/01-Basics.html",
+		"/L/xampp/htdocs/learn/ES2015/15-Sets/index.html",
+		"/L/xampp/htdocs/learn/ES2015/14-Generators/02-Example.html",
+		"/L/xampp/htdocs/learn/ES2015/14-Generators/01-Basic-Example.html",
+		"/L/xampp/htdocs/learn/ES2015/14-Generators/index.html",
+		"/L/xampp/htdocs/learn/ES2015/13-Useful-Array-Functions/index.html",
+		"/L/xampp/htdocs/learn/ES2015/12-Useful-String-Additions/index.html",
+		"/L/xampp/htdocs/learn/ES2015/project.sublime-project",
+		"/L/xampp/htdocs/learn/ES2015/11-Promises-101/index-1.html",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/ayu/ayu-mirage.tmTheme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/Colorsublime - Themes/Facebook.tmTheme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/User/Color Highlighter/themes/Facebook.tmTheme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/ayu/ayu-mirage.sublime-theme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/User/Color Highlighter/themes/ayu-mirage.tmTheme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/zzz A File Icon zzz/patches/specific/ayu/multi/ayu-mirage2.sublime-theme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/zzz A File Icon zzz/patches/specific/ayu/multi/ayu-mirage.sublime-theme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Cache/ayu/ayu-mirage.tmTheme.cache",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Cache/User/Color Highlighter/themes/ayu-mirage.tmTheme.cache",
+		"/L/xampp/htdocs/learn/ES2015/11-Promises-101/index-2.html",
+		"/L/xampp/htdocs/learn/ES2015/11-Promises-101/index.html",
+		"/L/xampp/htdocs/learn/ES2015/10-Module-Bundling-With-Webpack/src/main.js",
+		"/L/xampp/htdocs/learn/ES2015/10-Module-Bundling-With-Webpack/Important Notes.txt",
+		"/L/xampp/htdocs/learn/ES2015/10-Module-Bundling-With-Webpack/package.json",
+		"/L/xampp/htdocs/learn/ES2015/10-Module-Bundling-With-Webpack/index.html",
+		"/L/xampp/htdocs/learn/ES2015/10-Module-Bundling-With-Webpack/webpack.config.js",
+		"/L/xampp/htdocs/learn/ES2015/10-Module-Bundling-With-Webpack/dist/main.js",
+		"/L/xampp/htdocs/learn/ES2015/09-Module-Bundling-With-ROLLUP/Important Notes.txt",
+		"/L/xampp/htdocs/learn/ES2015/Important Notes.txt",
+		"/L/xampp/htdocs/learn/ES2015/09-Module-Bundling-With-ROLLUP/package.json",
+		"/L/xampp/htdocs/learn/ES2015/09-Module-Bundling-With-ROLLUP/out/bundle.js",
+		"/L/xampp/htdocs/learn/ES2015/09-Module-Bundling-With-ROLLUP/src/main.js",
+		"/L/xampp/htdocs/learn/ES2015/09-Module-Bundling-With-ROLLUP/rollup.config.js",
+		"/L/xampp/htdocs/learn/ES2015/09-Module-Bundling-With-ROLLUP/index.html",
+		"/L/xampp/htdocs/learn/ES2015/09-Module-Bundling-With-ROLLUP/src/TaskCollection.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/03-Method-3/src/main.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/03-Method-3/src/TaskCollection.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/02-Method-2/src/main.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/02-Method-2/src/TaskCollection.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/01-Method-1/src/TaskCollection.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/01-Method-1/src/main.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/01-Method-1/webpack.config.js",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/01-Method-1/package.json",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/01-Method-1/index.html",
+		"/L/xampp/htdocs/learn/ES2015/01-Basic Babel Setup/index.html",
+		"/L/xampp/htdocs/learn/ES2015/08-ES6-Modules/01-Method-1/.babelrc",
+		"/L/xampp/htdocs/learn/ES2015/07-Classes/04-Getters And Setters.html",
+		"/L/xampp/htdocs/learn/ES2015/07-Classes/03-Static Methods.html",
+		"/L/xampp/htdocs/learn/ES2015/07-Classes/01-Old Way.html",
+		"/L/xampp/htdocs/learn/ES2015/07-Classes/02-ES2015 Way.html",
+		"/L/xampp/htdocs/learn/ES2015/06-Object Enhancements/index1.html",
+		"/L/xampp/htdocs/learn/ES2015/06-Object Enhancements/index3.html",
+		"/L/xampp/htdocs/learn/ES2015/06-Object Enhancements/index2.html",
+		"/L/xampp/htdocs/learn/ES2015/05-Template Strings/index.html",
+		"/L/xampp/htdocs/learn/ES2015/05-Template Literals/index.html",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/User/.jsbeautifyrc",
+		"/L/xampp/htdocs/learn/ES2015/04-Rest And Spread/index.html",
+		"/L/xampp/htdocs/learn/ES2015/03-Default Parameters/index.html",
+		"/L/xampp/htdocs/learn/ES2015/02-Big Arrow/index2.html",
+		"/L/xampp/htdocs/learn/ES2015/02-Big Arrow/index1.html",
+		"/C/Users/Aditya/Desktop/hotscripts",
+		"/L/xampp/htdocs/learn/ES2015/02-Big Arrow",
+		"/L/xampp/htdocs/learn/ES2015/01-Basic Babel Setup/.babelrc",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/Material Theme/schemes/Material-Theme.tmTheme",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Cache/Material Theme/schemes/Material-Theme.tmTheme.cache",
+		"/L/Aditya's Work/Sublime Text Build 3143/Data/Packages/Colorsublime - Themes/Material.tmTheme",
+		"/L/xampp/htdocs/learn/ES2015/01-Basic Babel Setup/package.json",
+		"/L/xampp/htdocs/learn/ES2015/01-Basic Babel Setup/output/Person.js",
+		"/L/xampp/htdocs/learn/ES2015/01-Basic Babel Setup/src/Person.js",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/webpack.config.js",
+		"/L/xampp/htdocs/learn/Webpacks/Important Notes.txt",
+		"/L/xampp/htdocs/learn/Webpacks/6/package.json",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/src/scss/test.css",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/dist/images/sample.jpg",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/src/images/sample.jpg",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/dist/js/app.js",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/src/js/main.js",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/src/scss/main.scss",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/index.html",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/dist/css/app.css",
+		"/L/xampp/htdocs/learn/Webpacks/05-Sass-Compilation/package.json",
+		"/L/xampp/htdocs/learn/Webpacks/04-Minification-and-Environments/package.json",
+		"/L/xampp/htdocs/learn/Webpacks/04-Minification-and-Environments/webpack.config.js",
+		"/L/xampp/htdocs/learn/Webpacks/03-ES2015-Compilation-With-Babel/src/js/main.js",
+		"/L/xampp/htdocs/learn/Webpacks/04-Minification-and-Environments/src/js/main.js",
+		"/L/xampp/htdocs/learn/Webpacks/03-ES2015-Compilation-With-Babel/.babelrc",
+		"/L/xampp/htdocs/learn/Webpacks/03-ES2015-Compilation-With-Babel/dist/js/bundle.js",
+		"/L/xampp/htdocs/learn/Webpacks/03-ES2015-Compilation-With-Babel/webpack.config.js"
+	],
+	"find":
+	{
+		"height": 68.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+			"L:\\xampp\\apache\\conf",
+			"L:\\xampp\\htdocs\\learn\\Vue 2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"';\n",
+			"path",
+			"\\",
+			"grep",
+			"git",
+			" ",
+			"$adiinviter->getCallbackURL('gmail');",
+			"console.log",
+			"// ",
+			"'",
+			"3",
+			",",
+			"markup.quote",
+			"markup.italic",
+			"source",
+			"string.unquoted",
+			"constant.other",
+			"entity.name",
+			"tag.decorator",
+			"text.html",
+			"entity.other",
+			"text.html",
+			"text.html.basic",
+			"keyword.control",
+			"embedded.html",
+			"source.js",
+			"text.html",
+			"basic",
+			"text.html.basic",
+			"212734FF",
+			"212733",
+			"212734FF",
+			"italic",
+			"Person",
+			"name",
+			"next",
+			".\n",
+			"());\n",
+			"task",
+			"Italic",
+			"regul",
+			"<string>regular</string>",
+			"var",
+			"npm",
+			"\\",
+			"npm",
+			".css",
+			"jque",
+			"jqe",
+			"js",
+			" ",
+			"notify_one",
+			" ",
+			"div",
+			"Started",
+			"join",
+			"dsadasdasd",
+			"p",
+			"console",
+			"tweet",
+			"Allow-Origin",
+			"Origin",
+			"status",
+			"_",
+			"<?",
+			"create ta",
+			"success",
+			"div",
+			"\\",
+			"--config=node_modules/laravel-mix/setup/webpack.config.js",
+			"adi",
+			"@expire=\"test\"",
+			"expired=true",
+			"class=\"help is-danger\" ",
+			"dev",
+			"vue",
+			"\\",
+			": \"",
+			"set",
+			": \"",
+			"italic",
+			"getUser",
+			"err",
+			"CommonsChunkPlugin",
+			"success",
+			"adi",
+			"axios",
+			"self",
+			"key",
+			"msg",
+			"error.response",
+			"</br>",
+			"@click",
+			"JSON_FORCE_OBJECT",
+			"Eventthis",
+			"data(",
+			"errors",
+			"\">\n",
+			"urlencoded",
+			"active",
+			"div",
+			"\"id\": ",
+			"id\":",
+			"id",
+			"Event",
+			"model",
+			"props",
+			"userData",
+			"div",
+			"<template",
+			"temp",
+			"props",
+			"div",
+			"About Us",
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"regular",
+			"\\n\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SQLExec.errors":
+	{
+		"height": 246.0
+	},
+	"output.SQLTools Result":
+	{
+		"height": 450.0
+	},
+	"output.exec":
+	{
+		"height": 379.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/adiPHPRun.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config/auto",
+				"php\\CodeIgniter\\application\\config\\autoload.php"
+			],
+			[
+				"nrequest(",
+				"php\\REST APIs With Guzzle\\06-Sending Request Data (POST PUT PATCH)\\vendor\\guzzlehttp\\guzzle\\src\\Client.php"
+			],
+			[
+				"modelsusr",
+				"php\\MVC\\adi_new_mvc\\app\\models\\User.php"
+			],
+			[
+				"controller",
+				"php\\MVC\\adi_new_mvc\\app\\core\\Controller.php"
+			],
+			[
+				"turke",
+				"learn\\php\\Design Patterns\\03-Template Method Design Pattern\\Classes\\TurkeySub.php"
+			],
+			[
+				"",
+				"L:\\Aditya's Work\\Sublime Text Build 3143\\Data\\Packages\\User\\Adi Method.sublime-snippet"
+			],
+			[
+				"person",
+				"learn\\php\\Design Patterns\\02-Adapter Pattern\\Classes\\Person.php"
+			],
+			[
+				"adapterpattern/",
+				"learn\\php\\Design Patterns\\02-Adapter Pattern\\index.php"
+			],
+			[
+				"verifycsrf",
+				"fresh\\app\\Http\\Middleware\\VerifyCsrfToken.php"
+			],
+			[
+				"exceptions/handler",
+				"fresh\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				".env",
+				"fresh\\.env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

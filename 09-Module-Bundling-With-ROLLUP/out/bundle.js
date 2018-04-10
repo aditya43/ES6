@@ -1,0 +1,1 @@
+var TaskCollection=function(o){void 0===o&&(o=[]),this.tasks=o};TaskCollection.prototype.dump=function(){console.log(this.tasks)},new TaskCollection(["Go to the store","Go to movie","Cook dinner"]).dump();

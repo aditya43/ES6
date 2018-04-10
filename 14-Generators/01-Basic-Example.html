@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>ES6 Generators Basic Example | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            /**
+             * What is a generator :
+             *
+             * It allows a function to exit or pause at a particular time.
+             * And then later the caller has an ability to resume or pause it again.
+             * A generator function is defined with a *.
+             */
+
+            function* test()
+            {
+                let pad = '='.repeat(5);
+                console.log(`${pad} Begin ${pad}`);
+
+                yield 'abc';
+                yield 'def';
+                yield 'ghi';
+                yield 'jkl';
+                yield 'mno';
+            }
+
+            let iterator = test();
+
+            /////////////////////////////////////////////////////////////
+            // Executes a test() function till first yield and pauses. //
+            /////////////////////////////////////////////////////////////
+            console.log(iterator.next());
+            // console.log(iterator.next().value); // To get the yielded value.
+
+            ////////////////////////////////////////////////////////////////////////
+            // Start executing test() function after first yield till next yeild. //
+            ////////////////////////////////////////////////////////////////////////
+            console.log(iterator.next());
+            // console.log(iterator.next().value); // To get the yielded value.
+        </script>
+    </body>
+
+</html>

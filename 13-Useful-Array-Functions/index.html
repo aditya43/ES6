@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Usefull Array Functions | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            let arr = [0, 1, 2, 3, 4, 5];
+
+            ////////////////////////////////////////////
+            // To find a first number greater than 4. //
+            ////////////////////////////////////////////
+            console.log(arr.find(function (item)
+            {
+                return item > 4;
+            }));
+
+            ///////////////////////////////////
+            // To find the first odd number. //
+            ///////////////////////////////////
+            console.log(arr.find(function (item)
+            {
+                return item % 2 > 0;
+            }));
+
+            ///////////////////////////////////////////////////////
+            // Using arrow syntax, to find the first odd number. //
+            ///////////////////////////////////////////////////////
+            console.log(arr.find(item => item % 2));
+
+            ////////////////////////////////////////////////////////////
+            // Using arrow syntax, to find the number greater than 3. //
+            ////////////////////////////////////////////////////////////
+            console.log(arr.find(item => item > 3));
+
+            /////////////////////////////////////////////////
+            // To find the index of number greater than 4. //
+            /////////////////////////////////////////////////
+            console.log(arr.findIndex(item => item > 4));
+        </script>
+    </body>
+
+</html>

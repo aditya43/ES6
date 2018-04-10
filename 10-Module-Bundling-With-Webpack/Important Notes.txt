@@ -1,0 +1,12 @@
+* Module Bundling With Webpack
+
+    1. Install webpack :
+            npm install webpack --global
+        OR
+            yarn add webpack --dev
+    2. Create webpack.config.js.
+    3. Install Buble-Loader :
+        yarn add buble-loader --dev
+    4. Update webpack.config.js and add the Buble loader module.
+    5. Execute :
+        ./node_modules/.bin/webpack

@@ -1,0 +1,26 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Default Parameters | Aditya Hajare</title>
+    </head>
+
+    <body>
+        <script type="text/javascript">
+            function defaultDiscount()
+            {
+                return .10;
+            }
+
+            function applyDiscount(cost, discount = defaultDiscount())
+            {
+                return cost - (cost * discount);
+            }
+
+            console.log('Original Cost: 100');
+            console.log('Default Discount: .10');
+            console.log('Final: ', applyDiscount(100));
+        </script>
+    </body>
+
+</html>
